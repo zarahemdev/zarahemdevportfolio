@@ -1,0 +1,24 @@
+button{
+background-color: blueviolet;
+color: rgb(255, 255, 255);
+width: 100%;
+margin-top: 5%;
+margin-bottom: 5%;
+padding: 10%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+stroke: azure;
+}
+
+body{
+background-image:url(stair.jpg);
+background-attachment: fixed;
+
+}
+
+.zhp{
+
+
+    padding: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: black;}

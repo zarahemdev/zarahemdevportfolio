@@ -1,0 +1,47 @@
+.bgtop{
+background-image: url(AMBG.jpg);
+background-attachment: fixed;
+
+}
+
+.text{
+ color: aliceblue;
+ font-size: x-large;
+
+}
+
+.images{
+    padding:15px;
+    
+    }
+    
+    .branding{
+    background-image: url(4.jpg);
+    background-attachment: fixed;
+    
+    }
+
+    form{    
+    font-size: x-large;
+    color: rgb(121, 121, 121);    
+    background-image: url(Cat.png);
+
+    }
+
+    .button {
+        background-color: #000000; 
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+
+    .button3:hover {
+        background-color: #ffffff;
+        color: rgb(0, 0, 0); }
